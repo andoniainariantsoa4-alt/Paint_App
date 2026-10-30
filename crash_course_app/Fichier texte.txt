@@ -1,0 +1,15 @@
+cette application, tiré de la vidéo Clock et A,imation de Alexander Taylor.
+
+Structure:
+- Il y a deux bloques en carré coloré qui bougent
+- Le carré en blanc :
+== C'est celui qui sert de clock, celui qui bouge en permanence
+- Le carré en jaune :
+== Il bouge seulement quand on le touche
+
+Ce qui se passse:
+- Les deux bloques peuvent aller dans tous les coins: en haut , en bas, à gauche te à droite
+- La bloque Clock augmente sa vitesse au bout d'un certains temps alors que celui en jaune , réglée par l'utilisateur a la même vitesse qu'au début.
+- Le but est simpe, une application capable de gerer le mouvement de deux bloques d'oou l'Animation, et ainsi k'utilisation de Clock
+
+
